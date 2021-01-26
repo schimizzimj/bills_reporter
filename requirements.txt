@@ -1,0 +1,7 @@
+altgraph==0.17
+lxml==4.6.2
+macholib==1.14
+pyinstaller==4.2
+pyinstaller-hooks-contrib==2020.11
+PySimpleGUI==4.34.0
+python-docx==0.8.10
